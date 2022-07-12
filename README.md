@@ -1,2 +1,2 @@
 # 220606_machine_learning
-TibaMeAI班練習
+TibaMeAI班課堂練習
